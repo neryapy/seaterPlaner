@@ -35,7 +35,7 @@ A modern, intuitive desktop application for planning wedding guest seating arran
    ```
 
 ### Releases (Portable EXE)
-You can find the standalone `.exe` version in the [Releases](https://github.com/yourusername/wedding-planner/releases) section. No Python installation is required for the EXE version.
+You can find the standalone `.exe` version in the [Releases](https://github.com/neryapy/wedding-planner/releases) section. No Python installation is required for the EXE version.
 
 ## 📋 Usage Tips
 
