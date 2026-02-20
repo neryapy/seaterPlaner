@@ -1,0 +1,4 @@
+openpyxl
+gspread
+arabic_reshaper
+python-bidi
